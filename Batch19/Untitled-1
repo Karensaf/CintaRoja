@@ -1,0 +1,89 @@
+IF    ARCHIVO if.js
+1.- Escriba un programa que pida dos números enteros
+     y que calcule su división, escribiendo si la división es exacta o no.
+2.- Escriba un programa que pida dos números y que conteste
+     cuál es el menor y cuál el mayor o que escriba que son iguales.
+3- Escriba un programa que pida el año actual y un año cualquiera 
+    y que escriba cuántos años han pasado desde ese año o 
+    cuántos años faltan para llegar a ese año.
+4.- Escriba un programa que pida tres números y que escriba 
+    si son los tres iguales, si hay dos iguales o si son los tres distintos.
+5.- Pedir tres números y obtener el mayor de ellos.
+
+
+LIISTOOOOO
+
+
+
+// MIERCOLES 11 ABRIL  ARCHIVO Objeto.js
+
+
+1.- Crear un objeto de tipo triangulo con atributos base 
+  	y altura y tener el metodo area y perimetro.
+2.- Crear un objeto tipo cuadrado y obtener el perimetro y area.
+3.- Crear un objeto tipo rectangulo y obtener el perimetro y area.
+
+4.- Haz una clase llamada Persona que siga las siguientes condiciones:
+    Sus atributos son: nombre, edad, DNI, sexo, peso y altura.
+    calcularIMC()
+    esMayorDeEdad()
+    El constructor pide nombre, edad,sexo,peso y altura
+    Generar el DNI a partir de el nombre, edad y sexo
+5.- Crear un objeto Cuenta que tenga los siguientes atributos y metodos:
+    Titular y cantidad
+    ingresar(cantidad)
+    retirar(cantidad)
+    Hacer las validaciones previas
+    Como regla de negocio no debe de tener más de $900 y menos de $10
+
+
+
+//jueves 12 abril
+
+1.- Crear un objeto de tipo Figura que herede de 
+    tipo triangulo y recutangulo y que compartan caracteristicas.
+2.- Crearemos una supeclase llamada Electrodomestico con 
+    las siguientes características:
+    Sus atributos son precio, color, consumo energético y peso.
+    El constructor debe de pedir precio, color y peso.
+    2.1.-Crearemos una subclase llamada Lavadora con las siguientes 
+        características:
+    Su atributo es carga, ademas de los atributos heredados.
+    Crear el metodo precioFinal() 
+    (El precio de el electrodomestico por la carga)
+3.- Crear la clase construcción que hereda a otras dos 
+    clases “casa” y “edificio”
+    Sus atributos son: num puertas,num ventanas ,  num piso, 
+        direccion, altura,largo y ancho del tereno
+    Cada uno tiene un metodo que regresa los metros cuadrados 
+    Un metodo que regrese su direccion 
+    Un metodo que permita modificar su direccion
+
+
+
+
+    Arrow
+
+
+1.- Hacer una función que convierta de grados centígrados a Farenheit.
+2.- Hacer una función que muestre la tabla de multiplicar de un número.
+3.- Pasar de decimal a binario
+4- Función que pida N parametros y devuelva cuantos 
+    parametros se le pasaron
+5.- Leer un array de enteros y sacar su media
+
+
+
+5.-Leer el nombre y sueldo de 8 empleados y mostrar el nombre y sueldo del empleado que más gana.
+6.-Guardar en un array los 20 primeros números pares.
+7.-Hacer una funcion que calcule el tiempo necesario para que un automóvil que se mueve con una velocidad de 73000 m/h recorra una distancia de 120 km. (TIEMPO = d/v)
+8.-Hacer los primeros 10 dígitost de serie Fibbonacci
+9.-Crear una funcion que reciba como parametro una oración y defina si es palindromo.
+
+
+
+
+
+
+
+

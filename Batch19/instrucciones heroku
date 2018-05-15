@@ -1,0 +1,53 @@
+heroku 
+abrir cuenta
+buscar en google heroku client, descargar e instalar
+como hacer el npm
+crear carpeta
+npm init
+va a aparecer esto 
+package name: (backendcintaroja) backendroja
+version: (1.0.0)
+description: Crandobackend
+entry point: (server.js)
+test command:
+git repository:
+keywords:
+author:
+license: (ISC)
+About to write to /Users/alez/Desktop/BackendCintaRoja/package.json:
+{
+  "name": "backendroja",
+  "version": "1.0.0",
+  "description": "Crandobackend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+npm install express --save //lo instala de forma global
+npm install body-parser --save
+npm install mongoose
+//en el package.jason se van a ver las dependencias instaladas
+modificar el puerto en server.js y se busca usando la variable port
+en server.js const PORT = process.env.PORT || 3000
+heroku login
+heroku create "nombre"   //devfcintaalex
+git init
+nano
+nano .gitignore  //es para no subir la carpeta node_modules
+cat .gitignore
+git status
+git add .
+git status
+git commit -m "deploy"
+git status //todo bien  
+instalar los remotos con los que vamos a apuntar al git
+heroku git:remote -a devfcintaalex
+git push heroku master //es la rama que va a estar deployada, es la de producción
+heroku open //debe de abrir una página con el Hola Keroku
+
+
+Añadir comentarioContraer 
